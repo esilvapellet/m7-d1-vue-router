@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdesafio_vue_router"]=self["webpackChunkdesafio_vue_router"]||[]).push([[390],{2390:function(e,u,n){n.r(u),n.d(u,{default:function(){return d}});var r=n(3396);const t={class:"about"},a=(0,r._)("h1",null,"This is an about page",-1),s=[a];function o(e,u){return(0,r.wg)(),(0,r.iD)("div",t,s)}var i=n(89);const c={},f=(0,i.Z)(c,[["render",o]]);var d=f}}]);
+//# sourceMappingURL=390.439e1d89.js.map
