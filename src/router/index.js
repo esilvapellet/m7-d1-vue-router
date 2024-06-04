@@ -20,7 +20,7 @@ const routes = [
       return {
         nombre: "Desayunos",
         descripcion: "Contamos con desayunos nutritivos y deliciosos.",
-        precio: 2000,
+        precio: "$2.000",
         cantidad: "Para dos personas",
       };
     },
